@@ -1,2 +1,0 @@
-# Buroly
-¡Hola Mundo!
